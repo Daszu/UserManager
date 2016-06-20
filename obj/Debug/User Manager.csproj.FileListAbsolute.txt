@@ -1,0 +1,10 @@
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Debug\User Manager.exe.config
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Debug\User Manager.exe
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Debug\User Manager.pdb
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User Manager.csprojResolveAssemblyReference.cache
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User_Manager.Form1.resources
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User_Manager.Properties.Resources.resources
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User Manager.csproj.GenerateResource.Cache
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User Manager.exe
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User Manager.pdb
+c:\users\daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Debug\User_Manager.Form2.resources

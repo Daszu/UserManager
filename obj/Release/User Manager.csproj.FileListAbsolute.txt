@@ -1,0 +1,12 @@
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Release\User Manager.exe.config
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Release\User Manager.exe
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Release\User Manager.pdb
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Release\Secure Library.dll
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\bin\Release\Secure Library.pdb
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User_Manager.Form1.resources
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User_Manager.Form2.resources
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User_Manager.Properties.Resources.resources
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User Manager.csproj.GenerateResource.Cache
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User Manager.exe
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User Manager.pdb
+C:\Users\Daszu\documents\visual studio 2013\Projects\User Manager\User Manager\obj\Release\User Manager.csprojResolveAssemblyReference.cache
