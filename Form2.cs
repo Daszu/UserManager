@@ -23,7 +23,7 @@ namespace User_Manager
             InitializeComponent();
             groupBox1.Enabled = Global.uctx.HasPermission(Roles.CREATE_USER);
             groupBox2.Enabled = Global.uctx.HasPermission(Roles.CREATE_GROUP);
-            //button14.Enabled = Global.uctx.HasPermission(Roles.DELETE_USER);
+            button14.Enabled = Global.uctx.HasPermission(Roles.DELETE_USER);
             groupBox3.Enabled = Global.uctx.HasPermission(Roles.USER_PERMISSION);
             groupBox4.Enabled = Global.uctx.HasPermission(Roles.GROUP_PERMISSION);
             groupBox5.Enabled = Global.uctx.HasPermission(Roles.USER_GROUP);
